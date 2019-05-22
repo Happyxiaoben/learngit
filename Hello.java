@@ -8,7 +8,8 @@ public class Hello{
 
 		System.out.prinltn("hello java");
 
-		System.out.printn("我们不一样 + confilit");
+		
+		System.out.prinltn("hello from 221");
 
 	}
 }
