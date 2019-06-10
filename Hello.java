@@ -10,6 +10,7 @@ public class Hello{
 
 		
 		System.out.prinltn("hello from 221");
+		System.out.println("hello from mac");
 
 	}
 }
